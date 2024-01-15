@@ -68,7 +68,7 @@ body {
 
 .home {
   height: 100vh;
-  background: url("image/page_1.jpg") no-repeat;
+  background: url("page_1.jpg") no-repeat;
   background-size: cover;
   background-position: center;
   /*mon image de fond de moi*/
@@ -330,7 +330,7 @@ body {
 }
 
 #Forms {
-  background-image: url('image/flou.jpg');
+  background-image: url('flou.jpg');
   height: 100vh;
   width: 100vw;
   justify-content: center;
